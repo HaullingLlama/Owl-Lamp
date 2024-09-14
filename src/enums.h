@@ -1,0 +1,1 @@
+enum Animations{SOLID, FLAP, FADE, RAINBOW};
